@@ -80,10 +80,3 @@
 .operator {
     color: rgb(255, 8, 0);
 }
-
-@media (max-width: 768px){
-    #container {
-    width: 80%;
-    min-width: 200px;
-    }
-}
